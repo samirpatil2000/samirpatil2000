@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working At [Zopper](http://zopper.com/)
 
-- 🌱 I’m currently learning **Web Security**
+- 🌱 I’m currently learning **Web Security**,**System Design**
 
 - 👨‍💻 All of my projects are available at [https://samirpatil2000.github.io/](https://samirpatil2000.github.io/)
 
