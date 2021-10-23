@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://samirpatil2000.github.io/](https://samirpatil2000.github.io/)
 
-- 💬 Ask me about **Python,Django**
+- 💬 Ask me about **Python,Django,Data Structure & Algorithms**
 
 - 📫 How to reach me **samirspatil742099@gmail.com**
 
