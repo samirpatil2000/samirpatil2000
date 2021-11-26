@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sam/Samir Patil</h1>
 <h3 align="center">Backend Developer, Data Structure & Algorithms</h3>
 
-- 🔭 I’m currently working At [Zopper](http://zopper.com/)
-
-- 🌱 I’m currently learning **Web Security**,**System Design**
+- 🔭 I’m currently working At [Semaai](https://www.semaai.com/)
+,Ex- Zopper
+- 🌱 I’m currently learning **Web Security**,**System Design**,**Odoo**
 
 - 👨‍💻 All of my projects are available at [https://samirpatil2000.github.io/](https://samirpatil2000.github.io/)
 
