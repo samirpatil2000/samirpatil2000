@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working At [Semaai](https://www.semaai.com/)
 ,Ex- Zopper
-- 🌱 I’m currently learning **Web Security**,**System Design**,**Odoo**,**JavaScript**
+- 🌱 I’m currently learning **Web Security**, **System Design**, **Odoo**, **JavaScript**, **Docker**
 
 - 👨‍💻 All of my projects are available at [https://samirpatil2000.github.io/](https://samirpatil2000.github.io/)
 
-- 💬 Ask me about **Python,Django,Data Structure & Algorithms**
+- 💬 Ask me about **Python, Django, Data Structure & Algorithms**
 
 - 📫 How to reach me **samirspatil742099@gmail.com**
 
