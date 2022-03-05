@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sam/Samir Patil</h1>
 <h3 align="center">Backend Developer, Data Structure & Algorithms</h3>
 
+<h4> I am 20 years old software engineer mainly in backend development and laying between programming and designing </h4>
 - 🔭 I’m currently working At [Semaai](https://www.semaai.com/)
 ,Ex- Zopper
 - 🌱 I’m currently learning **Web Security**, **System Design**, **Odoo**, **JavaScript**, **Docker**
 
 - 👨‍💻 All of my projects are available at [https://samirpatil2000.github.io/](https://samirpatil2000.github.io/)
 
-- 💬 Ask me about **Python, Django, Data Structure & Algorithms**
+- 💬 Ask me about **Python, Django, Odoo, System Designing, Data Structure & Algorithms**
 
 - 📫 How to reach me **samirspatil742099@gmail.com**
 
