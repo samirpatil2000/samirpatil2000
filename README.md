@@ -38,6 +38,6 @@
 
 <b>&#128200; Competitive Programming</b>
 <p float="left">
-<img height="280em" width="500em" src="https://leetcode.card.workers.dev/samirpatil2000?cache=0" />
-<img height="280em" width="350em" src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=samirspatil742099" />
+<img height="280em" width="400em" src="https://leetcode.card.workers.dev/samirpatil2000?cache=0" />
+<img height="280em" width="300em" src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=samirspatil742099" />
 </p>
