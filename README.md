@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://samirpatil2000.github.io/](https://samirpatil2000.github.io/)
 
-- 💬 Ask me about **Python, Django, Odoo, System Designing, Data Structure & Algorithms**
+- 💬 Ask me about **Python, Django, Odoo, System Designing, Data Structure & Algorithms, Clean Code**
 
 - 📫 How to reach me **samirspatil742099@gmail.com**
 
@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/samir-patil-40830218b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samir-patil-40830218b" height="30" width="40" /></a>
 <a href="https://instagram.com/sampatil1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sampatil1010" height="30" width="40" /></a><a href="https://medium.com/@samir00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@samir00" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/samirpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samirpatil" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/samirspatil2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samirspatil2000" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/samirpatil2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samirspatil2000" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,5 +38,6 @@
 
 <b>&#128200; Competitive Programming</b>
 <p float="left">
-<img height="273em" src="https://leetcode.card.workers.dev/samirpatil2000?cache=3600" />
+<img height="280em" width="500em" src="https://leetcode.card.workers.dev/samirpatil2000?cache=0" />
+<img height="280em" width="350em" src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=samirspatil742099" />
 </p>
