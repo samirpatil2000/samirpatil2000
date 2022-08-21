@@ -2,7 +2,19 @@
 <h3 align="center">Backend Developer, Data Structure & Algorithms</h3>
 <h5 align="center"> I am 20 years old software engineer mainly in backend development and laying between programming and designing </h4>
 
+<p align="left">
+  <a href="https://leetcode.com/samirpatil2000/">
+    <img src="https://cp-logo.vercel.app/leetcode/samirpatil2000" alt="Leet code rating" />
+  </a>
+  </a>
+  <a href="https://github.com/samirpatil2000?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/samirpatil2000?color=green&logo=github">
+  </a>
+  <a href="https://github.com/samirpatil2000/">
+    <img src="https://komarev.com/ghpvc/?username=samirpatil2000" alt="visitors" />
+  </a>
 
+</p>
 
 - 🔭 I’m currently working At [Semaai](https://www.semaai.com/)
 , Ex- Zopper
