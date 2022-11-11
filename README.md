@@ -30,8 +30,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/samir-patil-40830218b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samir-patil-40830218b" height="30" width="40" /></a>
-<a href="https://instagram.com/sampatil1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sampatil1010" height="30" width="40" /></a><a href="https://medium.com/@samir00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@samir00" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/samir-patil-40830218b" target="blank">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samir-patil-40830218b" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/sampatil1010" target="blank">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sampatil1010" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/sampatil1010" target="blank">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sampatil1010" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@samir00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@samir00" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/samirpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samirpatil" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/samirpatil2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samirspatil2000" height="30" width="40" /></a>
 </p>
