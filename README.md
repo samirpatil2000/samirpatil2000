@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam/Samir Patil</h1>
-<h3 align="center">Backend Developer, Data Structure & Algorithms</h3>
+<h3 align="center">FullStack Engineer, DSA, System Design</h3>
 <h5 align="center"> I am 21 years old software engineer mainly in backend development and laying between programming and designing </h4>
 
 <p align="left">
@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at [https://samirpatil2000.github.io/](https://samirpatil2000.github.io/)
 
-- 💬 Ask me about **Python, Django, Odoo, System Designing, Data Structure & Algorithms, Clean Code**
+- 💬 Ask me about **Python, Django, Java, Spring Boot, NodeJs, ReactJs, Odoo, System Designing, Data Structure & Algorithms, Clean Code**
 
 - 📫 How to reach me **samirspatil742099@gmail.com**
 
