@@ -17,7 +17,7 @@
 </p>
 
 - 🔭 I’m currently working at [APIK](https://apik.ai/) as Fullstack Engineer, Ex- Semaai, Zopper
-- 🌱 I’m currently learning **Web Security**, **System Design**, **NodeJs/JavaScript**, **ExpressJs**, **Docker**
+- 🌱 I’m currently learning **System Design**, **Frontend(React)**
 
 - 👨‍💻 All of my projects are available at [https://samirpatil2000.github.io/](https://samirpatil2000.github.io/)
 
