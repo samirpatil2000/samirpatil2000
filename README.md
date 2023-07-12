@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sam/Samir Patil</h1>
 <h3 align="center">FullStack Engineer, DSA, System Design</h3>
-<h5 align="center"> I am 21 years old software engineer mainly in backend development and laying between programming and designing </h4>
+<h5 align="center"> I am 22 years old software engineer mainly in backend development and laying between programming and designing </h4>
 
 <p align="left">
   <a href="https://leetcode.com/samirpatil2000/">
@@ -16,8 +16,8 @@
 
 </p>
 
-- 🔭 I’m currently working at [APIK](https://apik.ai/) as Fullstack Engineer, Ex- Semaai, Zopper
-- 🌱 I’m currently learning **System Design**, **Frontend(React)**
+- 🔭 I’m currently working at [NitiAi](https://niti.ai/) as Software Engineer, Ex- Apik, Semaai, Zopper
+- 🌱 I’m currently learning **System Design**, **Frontend(React/NextJs)**, **GoLang**
 
 - 👨‍💻 All of my projects are available at [https://samirpatil2000.github.io/](https://samirpatil2000.github.io/)
 
