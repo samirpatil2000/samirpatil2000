@@ -1,64 +1,48 @@
-<h1 align="center">Hi 👋, I'm Sam/Samir Patil</h1>
-<h3 align="center">FullStack Engineer, DSA, System Design</h3>
-<h5 align="center"> I am 22 years old software engineer mainly in backend development and laying between programming and designing </h4>
+<h1 align="center" style="color: #1E90FF;">Hi there, I'm Samir Patil ✨</h1>
 
-<p align="left">
-  <a href="https://leetcode.com/samirpatil2000/">
-    <img src="https://cp-logo.vercel.app/leetcode/samirpatil2000" alt="Leet code rating" />
+<p align="center">
+  <a href="https://samir00.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-samir00-1E90FF?style=for-the-badge&logo=medium&logoColor=white" alt="Blogs">
   </a>
+  <a href="https://x.com/sampatil1010">
+    <img src="https://img.shields.io/badge/X-%40sampatil1010-1E90FF?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://github.com/samirpatil2000?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/samirpatil2000?color=green&logo=github">
+  <a href="https://leetcode.com/u/sampatil1010/">
+    <img src="https://img.shields.io/badge/LeetCode-sampatil1010-1E90FF?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
-  <a href="https://github.com/samirpatil2000/">
-    <img src="https://komarev.com/ghpvc/?username=samirpatil2000" alt="visitors" />
+  <a href="https://www.linkedin.com/in/sampatil1010/">
+    <img src="https://img.shields.io/badge/LinkedIn-sampatil1010-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-
 </p>
 
-- 🔭 I’m currently working at [NitiAi](https://niti.ai/) as Software Engineer, Ex- Apik, Semaai, Zopper
-- 🌱 I’m currently learning **System Design**, **Frontend(React/NextJs)**, **GoLang**
+---
 
-- 👨‍💻 All of my projects are available at [https://samirpatil2000.github.io/](https://samirpatil2000.github.io/)
+### 🖋 About Me:
+Hi! I'm Samir Patil, a passionate developer, problem-solver, and avid blogger. I love exploring cutting-edge technologies, sharing my knowledge through blogs, and continuously learning to improve my skills. 
 
-- 💬 Ask me about **Python, Django, Java, Spring Boot, NodeJs, ReactJs, Odoo, System Designing, Data Structure & Algorithms, Clean Code**
+- 🌐 **Medium Blogs**: I regularly share insightful posts on various tech topics. Check them out [here](https://samir00.medium.com/).
+- 🔧 **Problem Solver**: Explore my coding journey on [LeetCode](https://leetcode.com/u/samirpatil2000/).
+- 🔗 **Connect**: I'm active on [LinkedIn](https://www.linkedin.com/in/sampatil1010/) and [X (Twitter)](https://x.com/sampatil1010).
+- ✉️ **Email**: Feel free to reach out at **samirspatil742099@gmail.com**.
 
-- 📫 How to reach me **samirspatil742099@gmail.com**
+### 📝 My Resume:
+Take a look at my resume [here](https://drive.google.com/file/d/1qUeEF2elDLRtwq7IhMusXgoAXYwep6tu/view) to learn more about my skills and experience.
 
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/1qUeEF2elDLRtwq7IhMusXgoAXYwep6tu/view?usp=sharing).
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/samir-patil-40830218b" target="blank">
-    <img align="center" 
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samir-patil-40830218b" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/sampatil1010" target="blank">
-    <img align="center" 
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sampatil1010" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/sampatil1010" target="blank">
-    <img align="center" 
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sampatil1010" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@samir00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@samir00" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/samirpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samirpatil" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/samirpatil2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samirspatil2000" height="30" width="40" /></a>
-</p>
+### 🏆 Skills:
+- **Languages**: Python, JavaScript, Java, Go, 
+- **Web Development**: HTML, CSS, React, Next, Django, Flask, Spring Boot
+- **Problem Solving**: Competitive Programming, Algorithms, Data Structures
+- **Cloud & Deployment**: Docker, AWS
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank">
-<img width="40" height="40" src="https://github.com/sudiptob2/sudiptob2/blob/main/img/django-plain-wordmark.svg" alt="Django" href="https://www.djangoproject.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+---
 
+### 🔄 Let's Connect!
+Feel free to explore my work and connect with me on my social platforms. I love collaborating and sharing ideas!
 
-<b>⚡ Github Stats</b>
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samirpatil2000&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirpatil2000&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+---
 
-<b>&#128200; Competitive Programming</b>
-<p float="left">
-  <img height="480em" width="600em" src="https://leetcode.card.workers.dev/samirpatil2000?cache=0" />
+<p align="center" style="color: #1E90FF;">
+  <i>Thank you for visiting my GitHub profile! Have a great day! ✨</i>
 </p>
