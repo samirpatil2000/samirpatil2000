@@ -22,7 +22,7 @@ Hi! I'm Samir Patil, a passionate developer, problem-solver, and avid blogger. I
 
 - 🌐 **Medium Blogs**: I regularly share insightful posts on various tech topics. Check them out [here](https://samir00.medium.com/).
 - 🔧 **Problem Solver**: Explore my coding journey on [LeetCode](https://leetcode.com/u/samirpatil2000/).
-- 🔗 **Connect**: I'm active on [LinkedIn](https://www.linkedin.com/in/sampatil1010/) and [X (Twitter)](https://x.com/sampatil1010).
+- 🔗 **Connect**: I'm active on [LinkedIn](https://www.linkedin.com/in/sampatil1010/), [X (Twitter)](https://x.com/sampatil1010) and [Instagram](https://www.instagram.com/sampatil1010/)
 - ✉️ **Email**: Feel free to reach out at **samirspatil742099@gmail.com**.
 
 ### 📝 My Resume:
