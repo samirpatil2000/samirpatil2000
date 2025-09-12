@@ -27,7 +27,7 @@ Hi! I'm Samir Patil, a passionate developer, problem-solver, and avid blogger. I
 
 
 
-### 💡 My Philosophy**:  
+### 💡 My Philosophy:  
 I don’t aim for perfection in the first release. Instead, I focus on launching a stable version, gathering feedback, and then iterating quickly. Over time, this approach brings me closer to perfection. I usually follow the **Pareto Principle (80/20 rule)** — focusing on the 20% of effort that delivers 80% of results.
 
 ### 📝 My Resume:
@@ -37,9 +37,9 @@ Take a look at my resume [here](https://drive.google.com/file/d/1qUeEF2elDLRtwq7
 
 ### 🏆 Skills:
 - **Languages**: Python, JavaScript, Java, Go, 
-- **Web Development**: HTML, CSS, React, Next, Django, Flask, Spring Boot
+- **Development**: HTML, CSS, React, Next, Django, Flask, Spring Boot, FastAPI
 - **Problem Solving**: Competitive Programming, Algorithms, Data Structures
-- **Cloud & Deployment**: Docker, AWS
+- **Cloud & Deployment**: Docker, AWS, GCP
 
 ---
 
