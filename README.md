@@ -1,53 +1,92 @@
-<h1 align="center" style="color: #1E90FF;">Hi there, I'm Samir Patil ✨</h1>
+<h1 align="center">Hi, I'm Samir Patil ✨</h1>
+
+<p align="center">
+  Builder • Systems Thinker • AI Agent Engineer
+</p>
 
 <p align="center">
   <a href="https://samir00.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-samir00-1E90FF?style=for-the-badge&logo=medium&logoColor=white" alt="Blogs">
+    <img src="https://img.shields.io/badge/Medium-samir00-black?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="https://x.com/sampatil1010">
-    <img src="https://img.shields.io/badge/X-%40sampatil1010-1E90FF?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://leetcode.com/u/sampatil1010/">
-    <img src="https://img.shields.io/badge/LeetCode-sampatil1010-1E90FF?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+    <img src="https://img.shields.io/badge/X-%40sampatil1010-black?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sampatil1010/">
-    <img src="https://img.shields.io/badge/LinkedIn-sampatil1010-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-sampatil1010-black?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🖋 About Me:
-Hi! I'm Samir Patil, a passionate developer, problem-solver, and avid blogger. I love exploring cutting-edge technologies, sharing my knowledge through blogs, and continuously learning to improve my skills. 
+## 🧠 About Me
 
-- 🌐 **Medium Blogs**: I regularly share insightful posts on various tech topics. Check them out [here](https://samir00.medium.com/).
-- 🔧 **Problem Solver**: Explore my coding journey on [LeetCode](https://leetcode.com/u/samirpatil2000/).
-- 🔗 **Connect**: I'm active on [LinkedIn](https://www.linkedin.com/in/sampatil1010/), [X (Twitter)](https://x.com/sampatil1010) and [Instagram](https://www.instagram.com/sampatil1010/)
-- ✉️ **Email**: Feel free to reach out at **samirspatil742099@gmail.com**.
+I build systems.
 
+From backend infrastructure to AI agent execution pipelines, I focus on designing scalable architectures and shipping real products.
 
+I care about:
+- Clean system design  
+- Fast iteration cycles  
+- Practical AI implementation  
+- Shipping over theorizing  
 
-### 💡 My Philosophy:  
-I don’t aim for perfection in the first release. Instead, I focus on launching a stable version, gathering feedback, and then iterating quickly. Over time, this approach brings me closer to perfection. I usually follow the **Pareto Principle (80/20 rule)** — focusing on the 20% of effort that delivers 80% of results.
-
-### 📝 My Resume:
-Take a look at my resume [here](https://drive.google.com/file/d/1qUeEF2elDLRtwq7IhMusXgoAXYwep6tu/view) to learn more about my skills and experience.
-
----
-
-### 🏆 Skills:
-- **Languages**: Python, JavaScript, Java, Go, 
-- **Development**: HTML, CSS, React, Next, Django, Flask, Spring Boot, FastAPI
-- **Problem Solving**: Competitive Programming, Algorithms, Data Structures
-- **Cloud & Deployment**: Docker, AWS, GCP
+I don’t chase perfection in v1.  
+I ship fast, gather feedback, and iterate aggressively.
 
 ---
 
-### 🔄 Let's Connect!
-Feel free to explore my work and connect with me on my social platforms. I love collaborating and sharing ideas!
+## 🏗 Core Focus
+
+- **Infrastructure Engineering**  
+  Scalable cloud systems, containerized deployments, performance-first infra  
+
+- **System Design**  
+  Distributed architecture, API design, execution workflows  
+
+- **Frontend Engineering**  
+  Clean product interfaces, interaction-driven design  
+
+- **AI Agents**  
+  LLM orchestration, tool calling, automation pipelines  
+
+- **Agentic Systems**  
+  Multi-step reasoning graphs, autonomous workflows, execution engines  
 
 ---
 
-<p align="center" style="color: #1E90FF;">
-  <i>Thank you for visiting my GitHub profile! Have a great day! ✨</i>
+## 🚀 Open Source Projects
+
+### 🧍 Pose Sculpt  
+Interactive 3D Human Pose Editor.  
+Edit, manipulate, and export 3D poses via JSON with a clean UI.  
+🔗 https://github.com/samirpatil2000/pose-sculpt  
+
+---
+
+### ⏱ Tempo  
+Lightweight media workflow and performance utility tool.  
+🔗 https://github.com/samirpatil2000/Tempo  
+
+---
+
+### 📸 Buffer  
+Screenshot and image workflow simplification tool.  
+🔗 https://github.com/samirpatil2000/Buffer  
+
+---
+
+### 🖼 Img Convertor  
+Simple and fast image format conversion utility.  
+🔗 https://github.com/samirpatil2000/img-convertor  
+
+---
+
+### 🤖 Agentic Template  
+Starter foundation for building AI agents and execution pipelines.  
+🔗 https://github.com/samirpatil2000/agentic-template  
+
+---
+
+<p align="center">
+  <i>Build fast. Think deeply. Iterate endlessly.</i>
 </p>
