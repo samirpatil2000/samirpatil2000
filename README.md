@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Samir Patil ✨</h1>
+<h1 align="center">Hi, I'm Samir Patil</h1>
 
 <p align="center">
   Builder • Systems Thinker • AI Agent Engineer
