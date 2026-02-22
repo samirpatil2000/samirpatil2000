@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Samir Patil</h1>
+<h1 align="center">Hi, I'm Samir Patil ✨</h1>
 
 <p align="center">
   Builder • Systems Thinker • AI Agent Engineer
@@ -22,16 +22,13 @@
 
 I build systems.
 
-From backend infrastructure to AI agent execution pipelines, I focus on designing scalable architectures and shipping real products.
+From infrastructure and frontend interfaces to AI agent pipelines, I design scalable and practical technology.
 
 I care about:
 - Clean system design  
 - Fast iteration cycles  
 - Practical AI implementation  
 - Shipping over theorizing  
-
-I don’t chase perfection in v1.  
-I ship fast, gather feedback, and iterate aggressively.
 
 ---
 
@@ -44,7 +41,7 @@ I ship fast, gather feedback, and iterate aggressively.
   Distributed architecture, API design, execution workflows  
 
 - **Frontend Engineering**  
-  Clean product interfaces, interaction-driven design  
+  Product interfaces with strong interaction design  
 
 - **AI Agents**  
   LLM orchestration, tool calling, automation pipelines  
@@ -57,33 +54,32 @@ I ship fast, gather feedback, and iterate aggressively.
 ## 🚀 Open Source Projects
 
 ### 🧍 Pose Sculpt  
-Interactive 3D Human Pose Editor.  
-Edit, manipulate, and export 3D poses via JSON with a clean UI.  
-🔗 https://github.com/samirpatil2000/pose-sculpt  
+Interactive 3D Human Pose Editor — manipulate and export 3D pose data via JSON with an intuitive interface.  
+🔗 https://github.com/samirpatil2000/pose-sculpt
 
 ---
 
 ### ⏱ Tempo  
-Lightweight media workflow and performance utility tool.  
-🔗 https://github.com/samirpatil2000/Tempo  
+A sleek macOS video speed control and export utility with drag-and-drop workflow.  
+🔗 https://github.com/samirpatil2000/Tempo
 
 ---
 
-### 📸 Buffer  
-Screenshot and image workflow simplification tool.  
-🔗 https://github.com/samirpatil2000/Buffer  
+### 📋 Buffer  
+A macOS clipboard manager with searchable history and image support.  
+🔗 https://github.com/samirpatil2000/Buffer
 
 ---
 
 ### 🖼 Img Convertor  
-Simple and fast image format conversion utility.  
-🔗 https://github.com/samirpatil2000/img-convertor  
+A lightweight image format conversion utility.  
+🔗 https://github.com/samirpatil2000/img-convertor
 
 ---
 
 ### 🤖 Agentic Template  
-Starter foundation for building AI agents and execution pipelines.  
-🔗 https://github.com/samirpatil2000/agentic-template  
+Starter foundation for building AI agents and workflow orchestration systems.  
+🔗 https://github.com/samirpatil2000/agentic-template
 
 ---
 
