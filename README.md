@@ -63,14 +63,16 @@ I build systems — from infrastructure and frontend interfaces to AI agent pipe
   <tr>
     <td width="60" align="center" valign="top"><br>&nbsp;<br>&nbsp;</td>
     <td valign="top">
-      <strong><a href="https://github.com/samirpatil2000/pose-sculpt">Pose Sculpt</a></strong><br>
+      <strong><a href="https://github.com/samirpatil2000/pose-sculpt">Pose Sculpt</a></strong>
+      · <a href="https://pose-sculpt.vercel.app/">website ↗</a><br>
       Interactive 3D human pose editor — manipulate and export pose data as JSON.
     </td>
   </tr>
   <tr>
     <td width="60" align="center" valign="top"><br>&nbsp;<br>&nbsp;</td>
     <td valign="top">
-      <strong><a href="https://github.com/samirpatil2000/img-convertor">Img Convertor</a></strong><br>
+      <strong><a href="https://github.com/samirpatil2000/img-convertor">Img Convertor</a></strong>
+      · <a href="https://img-convertor-dun.vercel.app/">website ↗</a><br>
       Lightweight image format conversion utility.
     </td>
   </tr>
