@@ -1,9 +1,7 @@
 <h1 align="center">Samir Patil</h1>
-
 <p align="center">
   Builder • Systems Thinker • AI Engineer
 </p>
-
 <p align="center">
   <a href="https://samir00.medium.com/">
     <img src="https://img.shields.io/badge/Medium-samir00-black?style=for-the-badge&logo=medium&logoColor=white" />
@@ -26,15 +24,57 @@ I build systems — from infrastructure and frontend interfaces to AI agent pipe
 
 ## Projects
 
-| Project | Description | Links |
-|---|---|---|
-| **Buffer** | macOS clipboard manager with searchable history, image support, and on-device OCR | [GitHub](https://github.com/samirpatil2000/Buffer) · [Website](https://samirpatil2000.github.io/products/buffer/) |
-| **Mesmer** | Native macOS dictation and text-rewriting tool — on-device speech transcription and AI-powered rewrite with custom personas, system-wide via Accessibility APIs | [GitHub](https://github.com/samirpatil2000/mesmer) |
-| **Mosaic** | Keyboard-driven browser tab overview — Exposé-style thumbnail grid with fuzzy search and fast navigation across all open tabs | [GitHub](https://github.com/samirpatil2000/mosaic) |
-| **Tempo** | macOS video speed control and export utility with drag-and-drop workflow | [GitHub](https://github.com/samirpatil2000/Tempo) · [Website](https://samirpatil2000.github.io/products/tempo/) |
-| **Agentic Template** | Starter foundation for building AI agents and workflow orchestration systems | [GitHub](https://github.com/samirpatil2000/agentic-template) |
-| **Pose Sculpt** | Interactive 3D human pose editor — manipulate and export pose data as JSON | [GitHub](https://github.com/samirpatil2000/pose-sculpt) |
-| **Img Convertor** | Lightweight image format conversion utility | [GitHub](https://github.com/samirpatil2000/img-convertor) |
+<table>
+  <tr>
+    <td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/Buffer/raw/main/Assets/Buffer-Logo.png" width="40" height="40" alt="Buffer" /><br>&nbsp;</td>
+    <td valign="top">
+      <strong><a href="https://github.com/samirpatil2000/Buffer">Buffer</a></strong> · <a href="https://samirpatil2000.github.io/products/buffer/">website ↗</a><br>
+      macOS clipboard manager with searchable history, image support, and on-device OCR via Apple Vision. Lives in your menu bar, never leaves your Mac.
+    </td>
+  </tr>
+  <tr>
+    <td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/mesmer/raw/main/Mesmer/Assest/mesmer_app_logo.svg" width="40" height="40" alt="Mesmer" /><br>&nbsp;</td>
+    <td valign="top">
+      <strong><a href="https://github.com/samirpatil2000/mesmer">Mesmer</a></strong><br>
+      Native macOS dictation &amp; AI text-rewriting tool — on-device speech transcription and persona-based rewrites (Formal, Concise, Friendly) injected system-wide via Accessibility APIs.
+    </td>
+  </tr>
+  <tr>
+    <td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/mosaic/raw/main/public/mosaic-logo.svg" width="40" height="40" alt="Mosaic" /><br>&nbsp;</td>
+    <td valign="top">
+      <strong><a href="https://github.com/samirpatil2000/mosaic">Mosaic</a></strong><br>
+      Keyboard-driven browser tab overview — Exposé-style thumbnail grid with fuzzy search and fast navigation across all open tabs.
+    </td>
+  </tr>
+  <tr>
+    <td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/Tempo/raw/main/Tempo/Assets/Tempo-Logo.png" width="40" height="40" alt="Tempo" /><br>&nbsp;</td>
+    <td valign="top">
+      <strong><a href="https://github.com/samirpatil2000/Tempo">Tempo</a></strong> · <a href="https://samirpatil2000.github.io/products/tempo/">website ↗</a><br>
+      macOS video speed control and export utility with drag-and-drop workflow.
+    </td>
+  </tr>
+  <tr>
+    <td width="60" align="center" valign="top"><br>&nbsp;<br>&nbsp;</td>
+    <td valign="top">
+      <strong><a href="https://github.com/samirpatil2000/agentic-template">Agentic Template</a></strong><br>
+      Starter foundation for building AI agents and workflow orchestration systems.
+    </td>
+  </tr>
+  <tr>
+    <td width="60" align="center" valign="top"><br>&nbsp;<br>&nbsp;</td>
+    <td valign="top">
+      <strong><a href="https://github.com/samirpatil2000/pose-sculpt">Pose Sculpt</a></strong><br>
+      Interactive 3D human pose editor — manipulate and export pose data as JSON.
+    </td>
+  </tr>
+  <tr>
+    <td width="60" align="center" valign="top"><br>&nbsp;<br>&nbsp;</td>
+    <td valign="top">
+      <strong><a href="https://github.com/samirpatil2000/img-convertor">Img Convertor</a></strong><br>
+      Lightweight image format conversion utility.
+    </td>
+  </tr>
+</table>
 
 ---
 
