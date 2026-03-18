@@ -22,7 +22,7 @@ I build systems — from infrastructure and frontend interfaces to AI agent pipe
 
 ---
 
-## Projects
+## Open Source Projects
 
 <table>
   <tr>
