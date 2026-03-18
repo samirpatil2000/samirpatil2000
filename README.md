@@ -83,6 +83,11 @@ I build systems — from infrastructure and frontend interfaces to AI agent pipe
 
 ## Writing
 
+### Founder Journey
+
+- [The Problems Users Won’t Tell You About](https://samir00.medium.com/the-problems-users-wont-tell-you-about-a97c59804a16)
+
+### Software Engineering
 - [LangChain Database Cleanup — A Production Must-Have](https://samir00.medium.com/langchain-database-cleanup-a-production-must-have-51f82a40096d)
 - [The Subtle JWT Issue That Broke Our On-Prem Deployment](https://samir00.medium.com/the-subtle-jwt-issue-that-broke-our-on-prem-deployment-and-took-half-a-day-to-debug-fa863704fd58)
 - [Production-Proof Persistence & Auto-Reconnect (Postgres for LangGraph)](https://samir00.medium.com/production-proof-persistence-auto-reconnect-postgres-for-langgraph-33dc85b3f4b1)
