@@ -35,7 +35,8 @@ I build systems — from infrastructure and frontend interfaces to AI agent pipe
   <tr>
     <td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/mesmer/raw/main/Mesmer/Assest/mesmer_app_logo.svg" width="40" height="40" alt="Mesmer" /><br>&nbsp;</td>
     <td valign="top">
-      <strong><a href="https://github.com/samirpatil2000/mesmer">Mesmer</a></strong><br>
+      <strong><a href="https://github.com/samirpatil2000/mesmer">Mesmer</a></strong>
+      · <a href="https://samirpatil2000.github.io/products/mesmer/">website ↗</a><br>
       Native macOS dictation &amp; AI text-rewriting tool — on-device speech transcription and persona-based rewrites (Formal, Concise, Friendly).
     </td>
   </tr>
