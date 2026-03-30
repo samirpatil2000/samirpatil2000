@@ -41,12 +41,14 @@ I build systems — from infrastructure and frontend interfaces to AI agent pipe
     </td>
   </tr>
   <tr>
-    <td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/mosaic/raw/main/public/mosaic-logo.svg" width="40" height="40" alt="Mosaic" /><br>&nbsp;</td>
-    <td valign="top">
-      <strong><a href="https://github.com/samirpatil2000/mosaic">Mosaic</a></strong><br>
-      Keyboard-driven browser tab overview — Exposé-style thumbnail grid with fuzzy search and fast navigation across all open tabs.
-    </td>
-  </tr>
+  <td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/mosaic/raw/main/public/mosaic-logo.svg" width="40" height="40" alt="Mosaic" /><br>&nbsp;</td>
+  <td valign="top">
+    <strong><a href="https://github.com/samirpatil2000/mosaic">Mosaic</a></strong>
+    · <a href="https://chromewebstore.google.com/detail/mosaic/eckfdedblolbhaaekfjhnkmjggleijhe">Chrome extension ↗</a><br>
+    Keyboard-driven browser tab overview — Exposé-style thumbnail grid with fuzzy search and fast navigation across all open tabs.
+  </td>
+</tr>
+
   <tr>
     <td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/Tempo/raw/main/Tempo/Assets/Tempo-Logo.png" width="40" height="40" alt="Tempo" /><br>&nbsp;</td>
     <td valign="top">
