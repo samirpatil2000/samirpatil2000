@@ -28,9 +28,12 @@ I build systems — from infrastructure and frontend interfaces to AI agent pipe
   <tr>
     <td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/Buffer/raw/main/Assets/Buffer-Logo.png" width="40" height="40" alt="Buffer" /><br>&nbsp;</td>
     <td valign="top">
-      <strong><a href="https://github.com/samirpatil2000/Buffer">Buffer</a></strong> · <a href="https://samirpatil2000.github.io/products/buffer/">website ↗</a><br>
-      macOS clipboard manager with searchable history, image support, and on-device OCR via Apple Vision. Lives in your menu bar, never leaves your Mac.
-    </td>
+  <strong><a href="https://github.com/samirpatil2000/Buffer">Buffer</a></strong>
+  <img src="https://img.shields.io/github/stars/samirpatil2000/Buffer" alt="Buffer stars" />
+  · <a href="https://samirpatil2000.github.io/products/buffer/">website ↗</a><br>
+  macOS clipboard manager with searchable history, image support, and on-device OCR via Apple Vision. Lives in your menu bar, never leaves your Mac.
+</td>
+
   </tr>
   <tr>
     <td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/mesmer/raw/main/Mesmer/Assest/mesmer_app_logo.svg" width="40" height="40" alt="Mesmer" /><br>&nbsp;</td>
@@ -59,7 +62,8 @@ I build systems — from infrastructure and frontend interfaces to AI agent pipe
   <tr>
     <td width="60" align="center" valign="top"><br>&nbsp;<br>&nbsp;</td>
     <td valign="top">
-      <strong><a href="https://github.com/samirpatil2000/agentic-template">Agentic Template</a></strong><br>
+      <strong>
+<a href="https://github.com/samirpatil2000/agentic-template">Agentic Template</a>  <img src="https://img.shields.io/github/stars/samirpatil2000/agentic-template" alt="/agentic-template stars" /> </strong><br>
       Starter foundation for building AI agents and workflow orchestration systems.
     </td>
   </tr>
