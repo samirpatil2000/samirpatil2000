@@ -55,7 +55,7 @@ Video speed control and export utility with drag-and-drop workflow.
 </tr>
 
 <tr>
-<td width="60"></td>
+<td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/remindme/blob/main/AppIcon.svg" width="40" /><br>&nbsp;</td>
 <td>
 <strong><a href="https://github.com/samirpatil2000/remindme">RemindMe</a></strong><br>
 Lightweight macOS reminder utility focused on speed and simplicity.
@@ -77,7 +77,7 @@ Keyboard-driven tab overview — Exposé-style navigation across browser tabs.
 </tr>
 
 <tr>
-<td width="60"></td>
+<td width="60"><img src="https://github.com/samirpatil2000/claude-pulse/blob/main/claude-icon.svg"/></td>
 <td>
 <strong><a href="https://github.com/samirpatil2000/claude-pulse">Claude Pulse</a></strong><br>
 Browser extension enhancing Claude workflows with context awareness and developer tooling.
@@ -122,11 +122,11 @@ Production-ready foundation for building agent workflows with persistence and or
 </tr>
 
 <tr>
-<td width="60"></td>
-<td>
-<strong><a href="https://github.com/samirpatil2000/n8n">n8n Workflows</a></strong><br>
-Automation workflows integrating APIs, databases, and event-driven pipelines.
-</td>
+  <td width="60"></td>
+  <td>
+    <strong><a href="https://github.com/samirpatil2000/n8n">n8n Self‑Hosted Setup</a></strong><br>
+    Infrastructure boilerplate for running a self‑hosted n8n instance with sane defaults.
+  </td>
 </tr>
 
 <tr>
