@@ -94,21 +94,24 @@ Lightweight macOS reminder utility focused on speed and simplicity.
 
 <table>
 <tr>
-<td width="60"></td>
-<td>
-<strong><a href="https://github.com/samirpatil2000/pose-engine">Pose Engine</a></strong><br>
-3D pose generation and manipulation system for animation and visual workflows.
-</td>
+  <td width="60"></td>
+  <td>
+    <strong><a href="https://github.com/samirpatil2000/pose-engine">Pose Engine</a></strong>
+    · <a href="https://pose-eng.vercel.app">website ↗</a><br>
+    3D pose generation and manipulation system for animation and visual workflows.
+  </td>
 </tr>
 
 <tr>
-<td width="60"></td>
-<td>
-<strong><a href="https://github.com/samirpatil2000/img-convertor">Image Converter</a></strong><br>
-Lightweight image format conversion tool built for speed and simplicity.
-</td>
+  <td width="60"></td>
+  <td>
+    <strong><a href="https://github.com/samirpatil2000/img-convertor">Image Converter</a></strong>
+    · <a href="https://img-convertor-dun.vercel.app">website ↗</a><br>
+    Lightweight image format conversion tool built for speed and simplicity.
+  </td>
 </tr>
 </table>
+
 
 ---
 
