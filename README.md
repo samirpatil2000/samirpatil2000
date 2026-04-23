@@ -24,65 +24,118 @@ I build systems — from infrastructure and frontend interfaces to AI agent pipe
 
 ## Open Source Projects
 
-<table>
-  <tr>
-    <td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/Buffer/raw/main/Assets/Buffer-Logo.png" width="40" height="40" alt="Buffer" /><br>&nbsp;</td>
-    <td valign="top">
-  <strong><a href="https://github.com/samirpatil2000/Buffer">Buffer</a></strong>
-  <img src="https://img.shields.io/github/stars/samirpatil2000/Buffer" alt="Buffer stars" />
-  · <a href="https://samirpatil2000.github.io/products/buffer/">website ↗</a><br>
-  macOS clipboard manager with searchable history, image support, and on-device OCR via Apple Vision. Lives in your menu bar, never leaves your Mac.
-</td>
+## 🚀 Open Source Projects
 
-  </tr>
-  <tr>
-    <td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/mesmer/raw/main/Mesmer/Assest/mesmer_app_logo.svg" width="40" height="40" alt="Mesmer" /><br>&nbsp;</td>
-    <td valign="top">
-      <strong><a href="https://github.com/samirpatil2000/mesmer">Mesmer</a></strong>
-      · <a href="https://samirpatil2000.github.io/products/mesmer/">website ↗</a><br>
-      Native macOS dictation &amp; AI text-rewriting tool — on-device speech transcription and persona-based rewrites (Formal, Concise, Friendly).
-    </td>
-  </tr>
-  <tr>
-  <td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/mosaic/raw/main/public/mosaic-logo.svg" width="40" height="40" alt="Mosaic" /><br>&nbsp;</td>
-  <td valign="top">
-    <strong><a href="https://github.com/samirpatil2000/mosaic">Mosaic</a></strong>
-    · <a href="https://chromewebstore.google.com/detail/mosaic/eckfdedblolbhaaekfjhnkmjggleijhe">Chrome extension ↗</a><br>
-    Keyboard-driven browser tab overview — Exposé-style thumbnail grid with fuzzy search and fast navigation across all open tabs.
-  </td>
+### 🖥️ Mac Apps
+
+<table>
+<tr>
+<td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/Buffer/raw/main/Assets/Buffer-Logo.png" width="40" /><br>&nbsp;</td>
+<td valign="top">
+<strong><a href="https://github.com/samirpatil2000/Buffer">Buffer</a></strong>
+<img src="https://img.shields.io/github/stars/samirpatil2000/Buffer" /><br>
+macOS clipboard manager with searchable history, image support, and on-device OCR.
+</td>
 </tr>
 
-  <tr>
-    <td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/Tempo/raw/main/Tempo/Assets/Tempo-Logo.png" width="40" height="40" alt="Tempo" /><br>&nbsp;</td>
-    <td valign="top">
-      <strong><a href="https://github.com/samirpatil2000/Tempo">Tempo</a></strong> · <a href="https://samirpatil2000.github.io/products/tempo/">website ↗</a><br>
-      macOS video speed control and export utility with drag-and-drop workflow.
-    </td>
-  </tr>
-  <tr>
-    <td width="60" align="center" valign="top"><br>&nbsp;<br>&nbsp;</td>
-    <td valign="top">
-      <strong>
-<a href="https://github.com/samirpatil2000/agentic-template">Agentic Template</a>  <img src="https://img.shields.io/github/stars/samirpatil2000/agentic-template" alt="/agentic-template stars" /> </strong><br>
-      Starter foundation for building AI agents and workflow orchestration systems.
-    </td>
-  </tr>
-  <tr>
-    <td width="60" align="center" valign="top"><br>&nbsp;<br>&nbsp;</td>
-    <td valign="top">
-      <strong><a href="https://github.com/samirpatil2000/pose-sculpt">Pose Sculpt</a></strong>
-      · <a href="https://pose-sculpt.vercel.app/">website ↗</a><br>
-      Interactive 3D human pose editor — manipulate and export pose data as JSON.
-    </td>
-  </tr>
-  <tr>
-    <td width="60" align="center" valign="top"><br>&nbsp;<br>&nbsp;</td>
-    <td valign="top">
-      <strong><a href="https://github.com/samirpatil2000/img-convertor">Img Convertor</a></strong>
-      · <a href="https://img-convertor-dun.vercel.app/">website ↗</a><br>
-      Lightweight image format conversion utility.
-    </td>
-  </tr>
+<tr>
+<td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/mesmer/raw/main/Mesmer/Assest/mesmer_app_logo.svg" width="40" /><br>&nbsp;</td>
+<td valign="top">
+<strong><a href="https://github.com/samirpatil2000/mesmer">Mesmer</a></strong><br>
+AI-powered macOS dictation and rewriting tool with persona-based output styles.
+</td>
+</tr>
+
+<tr>
+<td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/Tempo/raw/main/Tempo/Assets/Tempo-Logo.png" width="40" /><br>&nbsp;</td>
+<td valign="top">
+<strong><a href="https://github.com/samirpatil2000/Tempo">Tempo</a></strong><br>
+Video speed control and export utility with drag-and-drop workflow.
+</td>
+</tr>
+
+<tr>
+<td width="60"></td>
+<td>
+<strong><a href="https://github.com/samirpatil2000/remindme">RemindMe</a></strong><br>
+Lightweight macOS reminder utility focused on speed and simplicity.
+</td>
+</tr>
+</table>
+
+---
+
+### 🌐 Browser Extensions
+
+<table>
+<tr>
+<td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/mosaic/raw/main/public/mosaic-logo.svg" width="40" /><br>&nbsp;</td>
+<td valign="top">
+<strong><a href="https://github.com/samirpatil2000/mosaic">Mosaic</a></strong><br>
+Keyboard-driven tab overview — Exposé-style navigation across browser tabs.
+</td>
+</tr>
+
+<tr>
+<td width="60"></td>
+<td>
+<strong><a href="https://github.com/samirpatil2000/claude-pulse">Claude Pulse</a></strong><br>
+Browser extension enhancing Claude workflows with context awareness and developer tooling.
+</td>
+</tr>
+</table>
+
+---
+
+### 🎨 Image & 3D
+
+<table>
+<tr>
+<td width="60"></td>
+<td>
+<strong><a href="https://github.com/samirpatil2000/pose-engine">Pose Engine</a></strong><br>
+3D pose generation and manipulation system for animation and visual workflows.
+</td>
+</tr>
+
+<tr>
+<td width="60"></td>
+<td>
+<strong><a href="https://github.com/samirpatil2000/img-convertor">Image Converter</a></strong><br>
+Lightweight image format conversion tool built for speed and simplicity.
+</td>
+</tr>
+</table>
+
+---
+
+### ⚙️ Backend & AI Infra
+
+<table>
+<tr>
+<td width="60"></td>
+<td>
+<strong><a href="https://github.com/samirpatil2000/agentic-template">Agentic Template</a></strong>
+<img src="https://img.shields.io/github/stars/samirpatil2000/agentic-template" /><br>
+Production-ready foundation for building agent workflows with persistence and orchestration.
+</td>
+</tr>
+
+<tr>
+<td width="60"></td>
+<td>
+<strong><a href="https://github.com/samirpatil2000/n8n">n8n Workflows</a></strong><br>
+Automation workflows integrating APIs, databases, and event-driven pipelines.
+</td>
+</tr>
+
+<tr>
+<td width="60"></td>
+<td>
+<strong><a href="https://github.com/samirpatil2000/hashicorp-vault-nginx">Vault + NGINX Setup</a></strong><br>
+Secure infrastructure setup for exposing HashiCorp Vault with NGINX and SSL.
+</td>
+</tr>
 </table>
 
 ---
