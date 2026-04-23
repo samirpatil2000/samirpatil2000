@@ -67,20 +67,25 @@ Lightweight macOS reminder utility focused on speed and simplicity.
 
 <table>
 <tr>
-<td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/mosaic/raw/main/public/mosaic-logo.svg" width="40" /><br>&nbsp;</td>
-<td valign="top">
-<strong><a href="https://github.com/samirpatil2000/mosaic">Mosaic</a></strong><br>
-Keyboard-driven tab overview — Exposé-style navigation across browser tabs.
-</td>
+  <td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/mosaic/raw/main/public/mosaic-logo.svg" width="40" /><br>&nbsp;</td>
+  <td valign="top">
+    <strong><a href="https://github.com/samirpatil2000/mosaic">Mosaic</a></strong>
+    · <a href="https://chromewebstore.google.com/detail/mosaic/eckfdedblolbhaaekfjhnkmjggleijhe">Chrome extension ↗</a><br>
+    Keyboard-driven tab overview — Exposé-style navigation across browser tabs.
+  </td>
 </tr>
 
+
 <tr>
-<td width="60"><img src="https://github.com/samirpatil2000/claude-pulse/blob/main/claude-icon.svg"/></td>
-<td>
-<strong><a href="https://github.com/samirpatil2000/claude-pulse">Claude Pulse</a></strong><br>
-Browser extension enhancing Claude workflows with context awareness and developer tooling.
-</td>
+  <td width="60"><img src="https://github.com/samirpatil2000/claude-pulse/blob/main/claude-icon.svg"/></td>
+  <td>
+    <strong><a href="https://github.com/samirpatil2000/claude-pulse">Claude Pulse</a></strong>
+    · <a href="https://chromewebstore.google.com/detail/claude-pulse/hhjihbpkopgacncfbkdakdolkmgkdfnf">Chrome extension ↗</a><br>
+    Browser extension enhancing Claude workflows with context awareness and developer tooling.
+  </td>
 </tr>
+
+
 </table>
 
 ---
