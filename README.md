@@ -22,8 +22,6 @@ I build systems — from infrastructure and frontend interfaces to AI agent pipe
 
 ---
 
-## Open Source Projects
-
 ## 🚀 Open Source Projects
 
 ### 🖥️ Mac Apps
