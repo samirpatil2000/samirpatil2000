@@ -37,11 +37,11 @@ macOS clipboard manager with searchable history, image support, and on-device OC
 </tr>
 
 <tr>
-<td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/mesmer/raw/main/Mesmer/Assest/mesmer_app_logo.svg" width="40" /><br>&nbsp;</td>
-<td valign="top">
-<strong><a href="https://github.com/samirpatil2000/mesmer">Mesmer</a></strong><br>
-AI-powered macOS dictation and rewriting tool with persona-based output styles.
-</td>
+  <td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/mesmer/raw/main/Mesmer/Assest/mesmer_app_logo.svg" width="40" /><br>&nbsp;</td>
+  <td valign="top">
+    <strong><a href="https://github.com/samirpatil2000/mesmer">Mesmer</a></strong><br>
+    AI-powered macOS dictation and rewriting tool with persona-based output styles.
+  </td>
 </tr>
 
 <tr>
@@ -119,12 +119,12 @@ Lightweight macOS reminder utility focused on speed and simplicity.
 
 <table>
 <tr>
-<td width="60"></td>
-<td>
-<strong><a href="https://github.com/samirpatil2000/agentic-template">Agentic Template</a></strong>
-<img src="https://img.shields.io/github/stars/samirpatil2000/agentic-template" /><br>
-Production-ready foundation for building agent workflows with persistence and orchestration.
-</td>
+  <td width="60"></td>
+  <td>
+    <strong><a href="https://github.com/samirpatil2000/agentic-template">Agentic Template</a></strong>
+    <img src="https://img.shields.io/github/stars/samirpatil2000/agentic-template" /><br>
+    Production-ready foundation for building agent workflows with persistence and orchestration.
+  </td>
 </tr>
 
 <tr>
