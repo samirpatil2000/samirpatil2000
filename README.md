@@ -80,7 +80,8 @@ Lightweight macOS reminder utility focused on speed and simplicity.
   <td width="60"><img src="https://github.com/samirpatil2000/claude-pulse/blob/main/claude-icon.svg"/></td>
   <td>
     <strong><a href="https://github.com/samirpatil2000/claude-pulse">Claude Pulse</a></strong>
-    · <a href="https://chromewebstore.google.com/detail/claude-pulse/hhjihbpkopgacncfbkdakdolkmgkdfnf">Chrome extension ↗</a><br>
+    <img src="https://img.shields.io/github/stars/samirpatil2000/claude-pulse" />
+    . <a href="https://chromewebstore.google.com/detail/claude-pulse/hhjihbpkopgacncfbkdakdolkmgkdfnf">Chrome extension ↗</a><br>
     Browser extension enhancing Claude workflows with context awareness and developer tooling.
   </td>
 </tr>
