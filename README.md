@@ -139,6 +139,15 @@ Lightweight macOS reminder utility focused on speed and simplicity.
 <tr>
 <td width="60"></td>
 <td>
+<strong><a href="https://github.com/samirpatil2000/django-boiler-plate">Django REST API Boilerplate</a></strong><br>
+Production-ready Django 6.0+ REST API starter with stateless JWT auth, email-based user model, and Docker setup.
+</td>
+</tr>
+
+
+<tr>
+<td width="60"></td>
+<td>
 <strong><a href="https://github.com/samirpatil2000/hashicorp-vault-nginx">Vault + NGINX Setup</a></strong><br>
 Secure infrastructure setup for exposing HashiCorp Vault with NGINX and SSL.
 </td>
