@@ -144,6 +144,14 @@ Production-ready Django 6.0+ REST API starter with stateless JWT auth, email-bas
 </td>
 </tr>
 
+<tr>
+<td width="60"></td>
+<td>
+<strong><a href="https://github.com/samirpatil2000/logs-services">PLG Logging Stack</a></strong><br>
+Containerized Loki, Promtail, Grafana, and Prometheus stack for framework-agnostic log collection and visualization.
+</td>
+</tr>
+
 
 <tr>
 <td width="60"></td>
