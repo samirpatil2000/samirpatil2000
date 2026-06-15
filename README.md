@@ -164,6 +164,19 @@ Secure infrastructure setup for exposing HashiCorp Vault with NGINX and SSL.
 
 ---
 
+### 🧠 AI & Developer Tools
+
+<table>
+<tr>
+<td width="60" align="center" valign="top"><br>🧠<br>&nbsp;</td>
+<td valign="top">
+<strong><a href="https://github.com/samirpatil2000/skills">Skills</a></strong>
+<img src="https://img.shields.io/github/stars/samirpatil2000/skills" /><br>
+A collection of opinionated skills for Codex, Claude Code, and other AI agents.
+</td>
+</tr>
+</table>
+
 ## Writing
 
 ### Founder Journey
