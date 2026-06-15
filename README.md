@@ -182,7 +182,6 @@ A collection of opinionated skills for Codex, Claude Code, and other AI agents.
 ### Founder Journey
 
 - [The Problems Users Won’t Tell You About](https://samir00.medium.com/the-problems-users-wont-tell-you-about-a97c59804a16)
-
 - [Apple Is Quietly Commoditizing AI Infrastructure](https://medium.com/@samir00/apple-is-quietly-commoditizing-ai-infrastructure-6c448d639985)
 
 ### Software Engineering
