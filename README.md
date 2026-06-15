@@ -170,7 +170,11 @@ Secure infrastructure setup for exposing HashiCorp Vault with NGINX and SSL.
 
 - [The Problems Users Won’t Tell You About](https://samir00.medium.com/the-problems-users-wont-tell-you-about-a97c59804a16)
 
+- [Apple Is Quietly Commoditizing AI Infrastructure](https://medium.com/@samir00/apple-is-quietly-commoditizing-ai-infrastructure-6c448d639985)
+
 ### Software Engineering
+
+- [Why Your App Breaks Behind a Load Balancer](https://medium.com/@samir00/the-hidden-https-bug-behind-load-balancers-32abdce08231)
 - [LangChain Database Cleanup — A Production Must-Have](https://samir00.medium.com/langchain-database-cleanup-a-production-must-have-51f82a40096d)
 - [The Subtle JWT Issue That Broke Our On-Prem Deployment](https://samir00.medium.com/the-subtle-jwt-issue-that-broke-our-on-prem-deployment-and-took-half-a-day-to-debug-fa863704fd58)
 - [Production-Proof Persistence & Auto-Reconnect (Postgres for LangGraph)](https://samir00.medium.com/production-proof-persistence-auto-reconnect-postgres-for-langgraph-33dc85b3f4b1)
