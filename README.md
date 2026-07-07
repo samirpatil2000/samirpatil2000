@@ -1,6 +1,6 @@
 <h1 align="center">Samir Patil</h1>
 <p align="center">
-  Builder • Systems Thinker • AI Engineer
+  Builder • Systems Thinker • AI
 </p>
 <p align="center">
   <a href="https://samir00.medium.com/">
