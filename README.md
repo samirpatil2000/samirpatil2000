@@ -16,7 +16,7 @@
 
 I build systems — from infrastructure and frontend interfaces to AI agent pipelines. I care about clean system design, fast iteration cycles, practical AI implementation, and shipping over theorizing.
 
-**Focus areas:** Infrastructure Engineering &nbsp;·&nbsp; System Design &nbsp;·&nbsp; Frontend Engineering &nbsp;·&nbsp; AI Agents &nbsp;·&nbsp; Agentic Systems
+**Focus areas:** Engineering, AI Agents, 3d
 
 <br>
 
