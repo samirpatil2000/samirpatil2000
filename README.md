@@ -31,17 +31,18 @@ I build systems — from infrastructure and frontend interfaces to AI agent pipe
 <td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/Buffer/raw/main/Assets/Buffer-Logo.png" width="40" /><br>&nbsp;</td>
 <td valign="top">
 <strong><a href="https://github.com/samirpatil2000/Buffer">Buffer</a></strong>
-<img src="https://img.shields.io/github/stars/samirpatil2000/Buffer" /><br>
+<img src="https://img.shields.io/github/stars/samirpatil2000/Buffer" />
+<img src="https://img.shields.io/badge/users-2.5k%2B-9acd32" /><br>
 macOS clipboard manager with searchable history, image support, and on-device OCR.
 </td>
 </tr>
 
 <tr>
-  <td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/mesmer/raw/main/Mesmer/Assest/mesmer_app_logo.svg" width="40" /><br>&nbsp;</td>
-  <td valign="top">
-    <strong><a href="https://github.com/samirpatil2000/mesmer">Mesmer</a></strong><br>
-    AI-powered macOS dictation and rewriting tool with persona-based output styles.
-  </td>
+<td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/mesmer/raw/main/Mesmer/Assest/mesmer_app_logo.svg" width="40" /><br>&nbsp;</td>
+<td valign="top">
+<strong><a href="https://github.com/samirpatil2000/mesmer">Mesmer</a></strong><br>
+AI-powered macOS dictation and rewriting tool with persona-based output styles.
+</td>
 </tr>
 
 <tr>
@@ -54,12 +55,16 @@ Video speed control and export utility with drag-and-drop workflow.
 
 <tr>
 <td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/remindme/blob/main/AppIcon.svg" width="40" /><br>&nbsp;</td>
-<td>
-<strong><a href="https://github.com/samirpatil2000/remindme">RemindMe</a></strong><br>
+<td valign="top">
+<strong><a href="https://github.com/samirpatil2000/remindme">RemindMe</a></strong>
+  <img src="https://img.shields.io/github/stars/samirpatil2000/remindme" />
+<img src="https://img.shields.io/badge/users-100%2B-9acd32" /><br>
 Lightweight macOS reminder utility focused on speed and simplicity.
 </td>
 </tr>
 </table>
+
+
 
 ---
 
@@ -67,24 +72,23 @@ Lightweight macOS reminder utility focused on speed and simplicity.
 
 <table>
 <tr>
-  <td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/mosaic/raw/main/public/mosaic-logo.svg" width="40" /><br>&nbsp;</td>
-  <td valign="top">
-    <strong><a href="https://github.com/samirpatil2000/mosaic">Mosaic</a></strong>
-    · <a href="https://chromewebstore.google.com/detail/mosaic/eckfdedblolbhaaekfjhnkmjggleijhe">Chrome extension ↗</a><br>
-    Keyboard-driven tab overview — Exposé-style navigation across browser tabs.
-  </td>
+<td width="60" align="center" valign="top"><br><img src="https://github.com/samirpatil2000/mosaic/raw/main/public/mosaic-logo.svg" width="40" /><br>&nbsp;</td>
+<td valign="top">
+<strong><a href="https://github.com/samirpatil2000/mosaic">Mosaic</a></strong>
+<img src="https://img.shields.io/badge/users-100%2B-9acd32" />
+· <a href="https://chromewebstore.google.com/detail/mosaic/eckfdedblolbhaaekfjhnkmjggleijhe">Chrome extension ↗</a><br>
+Keyboard-driven tab overview — Exposé-style navigation across browser tabs.
+</td>
 </tr>
-
 
 <tr>
-  <td width="60"><img src="https://github.com/samirpatil2000/claude-pulse/blob/main/claude-icon.svg"/></td>
-  <td>
-    <strong><a href="https://github.com/samirpatil2000/claude-pulse">Claude Pulse</a></strong>
-    <img src="https://img.shields.io/github/stars/samirpatil2000/claude-pulse" />
-    . <a href="https://chromewebstore.google.com/detail/claude-pulse/hhjihbpkopgacncfbkdakdolkmgkdfnf">Chrome extension ↗</a><br>
-    Browser extension enhancing Claude workflows with context awareness and developer tooling.
-  </td>
-</tr>
+<td width="60"><img src="https://github.com/samirpatil2000/claude-pulse/blob/main/claude-icon.svg"/></td>
+<td>
+<strong><a href="https://github.com/samirpatil2000/claude-pulse">Claude Pulse</a></strong>
+<img src="https://img.shields.io/github/stars/samirpatil2000/claude-pulse" />
+<img src="https://img.shields.io/badge/users-4.5k+-9acd32" />
+. 
+
 
 
 </table>
