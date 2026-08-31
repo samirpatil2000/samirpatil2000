@@ -1,12 +1,12 @@
 ---
-title: GitHub Command Center Privacy Policy
+title: GitOctant Privacy Policy
 ---
 
-# GitHub Command Center Privacy Policy
+# GitOctant Privacy Policy
 
 **Effective date: August 31, 2026**
 
-GitHub Command Center is a Chrome extension that gives you a personal dashboard for GitHub repositories, pull requests, and activity. This policy explains how the extension handles information.
+GitOctant is a Chrome extension that gives you a personal dashboard for GitHub repositories, pull requests, and activity. This policy explains how the extension handles information.
 
 ## Information handled by the extension
 
@@ -18,11 +18,11 @@ This information is used only to provide the extension's dashboard, repository a
 
 ## Storage and sharing
 
-Your token, extension settings, and locally cached GitHub data are stored in `chrome.storage.local` on your device. GitHub Command Center does not operate its own servers, use analytics, or send this information to advertising or data-broker services.
+Your token, extension settings, and locally cached GitHub data are stored in `chrome.storage.local` on your device. GitOctant does not operate its own servers, use analytics, or send this information to advertising or data-broker services.
 
 When the extension refreshes your dashboard, it sends requests directly from your browser to the official GitHub API at `https://api.github.com`. Your token is used only as authorization for those GitHub API requests and is not sent to the extension developer.
 
-GitHub Command Center does not sell, rent, or transfer your information to third parties. The only network destination used by the extension is GitHub's API, which is necessary to provide the service you request.
+GitOctant does not sell, rent, or transfer your information to third parties. The only network destination used by the extension is GitHub's API, which is necessary to provide the service you request.
 
 ## Retention and control
 
